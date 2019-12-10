@@ -29,3 +29,4 @@ Sites/Things I don't want to forget about.
 * [Gary Vaynerchuk: Building Personal Brand Within the Social Media Landscape - Web 2.0 Expo NY](https://www.youtube.com/watch?v=EhqZ0RU95d4)
 * [Dan Pink: The puzzle of motivation (Drive)](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
 * [RETRAIN YOUR MIND (Joe Rogan)](https://www.youtube.com/watch?v=ysTGb27yCcc)
+* [Joe Rogan on People Who Choose to Not Workout, "It's Silly"](https://www.youtube.com/watch?v=d-babgLc9JQ)
