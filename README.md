@@ -4,6 +4,12 @@ Sites/Things I don't want to forget about.
 * [Public speaking](#public-speaking)
 * [Mindset](#mindset)
 
+## Content
+
+### Inspired by aviation procedures
+* https://www.paperplanes.de/2014/3/24/assessing-risk-in-socio-technical-systems.html
+* [The Pursuit of Success & Averting Drift into Failure - Sidney Dekker](https://www.youtube.com/watch?v=pmZ6wtOmTZU)
+* [How to crash an airplane – Nickolas Means | The Lead Developer UK 2016](https://www.youtube.com/watch?v=099cHWSbAL8)
 
 ## Public speaking
 
